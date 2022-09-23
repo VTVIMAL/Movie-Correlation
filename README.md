@@ -1,6 +1,6 @@
 # Movie-Correlation
 
-<li>python program to figure the correlation between different movie aspects to gross movie earnings</li>
+_**Python**_ program to figure the correlation between different movie aspects to gross movie earnings
 
 <h3>DataSet Used 
 https://www.kaggle.com/datasets/danielgrijalvas/movies
